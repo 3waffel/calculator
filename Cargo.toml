@@ -5,8 +5,6 @@ edition = "2021"
 build = "build.rs"
 
 [dependencies]
-dioxus = "0.2.4"
-dioxus-tui = "0.2.2"
 lalrpop-util = { version = "0.19.8", features = ["lexer"] }
 regex = "1.7.0"
 
